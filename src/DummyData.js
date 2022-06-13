@@ -1,42 +1,22 @@
-export const UsersData = [
+export const PostsData = [
   {
     id: 1,
     name: "ShinCode",
-    username: "Bret",
+    content: "Redux勉強なう",
   },
   {
     id: 2,
-    name: "Ervin Howell",
-    username: "Antonette",
+    name: "名無しさん",
+    content: "ShinCodeさん分かりやすい",
   },
   {
     id: 3,
-    name: "Clementine Bauch",
-    username: "clementine",
+    name: "駆け出しエンジニア",
+    content: "Udemy受講してみようかな",
   },
   {
     id: 4,
-    name: "Patricia Lebsack",
-    username: "Karianne",
-  },
-  {
-    id: 5,
-    name: "Chelsey Dietrich",
-    username: "Kamren",
-  },
-  {
-    id: 6,
-    name: "Jake Runolfsdottir V",
-    username: "Leopoldo_Corkery",
-  },
-  {
-    id: 7,
-    name: "Mrs. Dennis Schulist",
-    username: "Karley_Dach",
-  },
-  {
-    id: 8,
-    name: "Kurtis Weissnat",
-    username: "Elwyn.Skiles",
+    name: "スタックオーバーフローさん",
+    content: "エンジニアのスタバ",
   },
 ];
